@@ -1,0 +1,56 @@
+.contenedor{
+	width: 900px; 
+    height: 600px; 
+    background: #8CB27C;
+    position:relative;
+}
+.caja{
+	width: 860px;
+    height: 560px;
+    background: transparent;
+    position: absolute;
+    border: 1px solid white;
+    left: 16px;
+    bottom: 19px;
+}
+.cajaleft{
+	width: 100px;
+    height: 200px;
+    position: absolute;
+    bottom: 150px;
+    border: 1px solid white;
+    border-left: 0px;
+  }
+.cajacenter{
+	width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 150px;
+    left: 300px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+.cajaright{
+	width: 100px;
+    height: 200px;
+    position: absolute;
+    bottom: 150px;
+    right: 0px;
+    border: 1px solid white;
+    border-right: 0px;
+}
+.bola1{
+	position: absolute;
+    left: 87px;
+    bottom: 301px;
+}
+.bola2{
+	position: absolute;
+    right: 450px;
+    top: 51px;
+}
+.bola3{
+	position: absolute;
+    right: 106px;
+    bottom: 129px;
+}
