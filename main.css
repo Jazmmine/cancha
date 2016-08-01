@@ -9,7 +9,7 @@
     height: 560px;
     background: transparent;
     position: absolute;
-    border: 1px solid white;
+    border: 1px solid #FFFFFF;
     left: 16px;
     bottom: 19px;
 }
@@ -18,7 +18,7 @@
     height: 200px;
     position: absolute;
     bottom: 150px;
-    border: 1px solid white;
+    border: 1px solid #FFFFFF;
     border-left: 0px;
   }
 .cajacenter{
@@ -28,7 +28,7 @@
     bottom: 150px;
     left: 300px;
     border-radius: 50%;
-    border: 1px solid white;
+    border: 1px solid #FFFFFF;
 }
 .cajaright{
 	width: 100px;
@@ -36,7 +36,7 @@
     position: absolute;
     bottom: 150px;
     right: 0px;
-    border: 1px solid white;
+    border: 1px solid #FFFFFF;
     border-right: 0px;
 }
 .bola1{
